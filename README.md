@@ -1,7 +1,7 @@
 # Exploratory Data Analysis on India's pollution Levels
 
 ## Project Overview
-- Daily Pollution level data for varioous Indian cities was fetched from Kaggle.
+- Daily Pollution level data for various Indian cities was fetched from Kaggle.
 - Data was pre-processed and cleaned using Pandas library.
 - Created an analysis on trend of pollution levels over the last 5 years
 - Created an evaluator in order to provide a rating on the basis of pollutant levels recorded.
@@ -22,11 +22,23 @@ Nitrogen Dioxide (NO2) is one of a group of highly reactive gases known as oxide
 Carbon monoxide (CO) is a colorless, odorless gas that is a product of the incomplete combustion of carbon-based fuels — including gasoline, diesel fuel, crude oil, and wood — and other natural and synthetic products. Main contributors of carbon monoxide emissions include vehicle exhaust from cars, trucks, and buses; gas-powered furnaces; and portable generators. Carbon monoxide can affect the amount of oxygen carried by the bloodstream to critical organs, including the heart and the brain. Individuals with certain types of heart disease are at elevated risk of health impacts, especially for heart diseases in which the circulation of oxygen to heart tissues is already compromised. People with pre-existing heart issues can become subject to increased symptoms when under higher stress or during exercise, and can experience chest pains, known as angina.
 ### O3(Ozone)
 Ozone in the air we breathe can harm our health. People most at risk from breathing air containing ozone include people with asthma, children, older adults, and people who are active outdoors, especially outdoor workers. In addition, people with certain genetic characteristics, and people with reduced intake of certain nutrients, such as vitamins C and E, are at greater risk from ozone exposure. Breathing ozone can trigger a variety of health problems including chest pain, coughing, throat irritation, and airway inflammation. It also can reduce lung function and harm lung tissue. Ozone can worsen bronchitis, emphysema, and asthma, leading to increased medical care. Learn more about health effects.
-### PM2.5
+### PM2.5(Particulate Matter2.5)
 PM2.5 refers to atmospheric particulate matter (PM) that have a diameter of less than 2.5 micrometers, which is about 3% the diameter of a human hair. Commonly written as PM2.5, particles in this category are so small that they can only be seen with a microscope. They are even smaller than their counterparts PM10, which are particles that are 10 micrometres or less, and are also called fine particles. 
 Since they are so small and light, fine particles tend to stay longer in the air than heavier particles. This increases the chances of humans and animals inhaling them into the bodies. Owing to their minute size, particles smaller than 2.5 micrometers are able to bypass the nose and throat and penetrate deep into the lungs and some may even enter the circulatory system. Studies have found a close link between exposure to fine particles and premature death from heart and lung disease. Fine particles are also known to trigger or worsen chronic disease such as asthma, heart attack, bronchitis and other respiratory problems.
-### PM10
+### PM10(Particulate Matter10)
 PM10 are very small particles found in dust and smoke. They have a diameter of 10 micrometres (0.01 mm) or smaller. PM10 particles are small enough to get into your throat and lungs. High levels of PM10 can make you cough, your nose run and eyes sting. People with heart or lung conditions might have more symptoms when PM10 levels are high. Symptoms can include wheezing, chest tightness or difficulty breathing.
+
+Below you can find a correlation heatmap designed to show how multiple pollutants are related to each other.
+
+![](Correlation-Pollutants.png)
+
+There is a strong correlation between PM2.5 and PM10. Also, we can see that NO2 and O3 are also correlated to PM2.5 and PM10. This strong correlation helps us determine that the factors causing the rise in these pollutants are also correlated to each other.
+Also below is a correlation heatmap for correlation of the various pollutants to the cities. This will show which pollutants are majorly responsible for pollution in these cities.
+
+![](Correlation-City.png)
+
+It can be clearly concluded that majority of the cities have high levels of Particulate Matter2.5 and Particulate Matter10, especially in Delhi and Gurugram where they have degraded the air quality to hazardous level. In case of Ahmedabad, we can see there are minor levels of other pollutants such as Nitrogen dioxide and sulfur dioxide in addition to PM2.5 and PM10. 
+
 ## Effect of Covid 19 Pandemic on Air pollution
 Amid the COVID-19 pandemic, a nationwide lockdown is imposed in India initially for three weeks from 24th March to 14th April 2020 and was extended up to June 2020. Due to the forced restrictions, pollution level in cities across the country drastically slowed down just within few days which magnetize discussions regarding lockdown to be the effectual alternative measures to be implemented for controlling air pollution. From the below graphs, you can see a visual difference on the level of pollutants as well as the overall AQI before the start of the lockdown phase and after the lockdown began. The data here is for the top 10 most polluting cities in India. In my case study for Delhi, you can see there is a major decline in the level of pollutants.  Nationwide lockdown amid the COVID-19 pandemic provides a unique opportunity to work in this direction. Consequently, quantitative appraisal of air pollution desires to be carried out so as to understand the upshot of lockdown measures on air quality particularly when there is a need to implement such alternative control actions. This study is an effort to assess the usefulness of the lockdown as an alternative strategy for reducing air pollution level in NCT Delhi for instance.
 
