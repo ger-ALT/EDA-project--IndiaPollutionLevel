@@ -30,3 +30,26 @@ PM10 are very small particles found in dust and smoke. They have a diameter of 1
 ## Effect of Covid 19 Pandemic on Air pollution
 Amid the COVID-19 pandemic, a nationwide lockdown is imposed in India initially for three weeks from 24th March to 14th April 2020 and was extended up to June 2020. Due to the forced restrictions, pollution level in cities across the country drastically slowed down just within few days which magnetize discussions regarding lockdown to be the effectual alternative measures to be implemented for controlling air pollution. From the below graphs, you can see a visual difference on the level of pollutants as well as the overall AQI before the start of the lockdown phase and after the lockdown began. The data here is for the top 10 most polluting cities in India. In my case study for Delhi, you can see there is a major decline in the level of pollutants.  Nationwide lockdown amid the COVID-19 pandemic provides a unique opportunity to work in this direction. Consequently, quantitative appraisal of air pollution desires to be carried out so as to understand the upshot of lockdown measures on air quality particularly when there is a need to implement such alternative control actions. This study is an effort to assess the usefulness of the lockdown as an alternative strategy for reducing air pollution level in NCT Delhi for instance.
 
+![AQI Levels for 2015-2019 vs 2020](AQI%20over%202015-2019%20vs%202020.png) 
+
+As it is evident from the above comparison we see there's a major difference in the levels of AQI over 2015-2019 and 2020. Also there's a sharp decline in the pollution level after the implementation of nationwide lockdown on 23rd March. This resulted in shutting down of all factories and offices across the country. Also, there was a sharp decline in automobiles use as it was prohibited. This vastly improved the air quality especially in cities like Delhi & Gurugram where the automobile pollution was a major factor in making air quality worse. 
+According to my analysis, the average AQI level from 2015 till March 2020 was 175. Post Corona, This level has fallen sharply to 85. Also below are the levels of various pollutants from 2015-2019 vs their level in 2020. 
+![](Trend%20of%20CO%20pollutant%20for%202015-2019.png) 
+![](Trend%20of%20CO%20pollutant%20for%202020.png)
+
+![](Trend%20of%20NO2%20pollutant%20for%202015-2019.png) 
+![](Trend%20of%20NO2%20pollutant%20for%202020.png)
+
+![](Trend%20of%20SO2%20pollutant%20for%202015-2019.png) 
+![](Trend%20of%20SO2%20pollutant%20for%202020.png)
+
+![](Trend%20of%20O3%20pollutant%20for%202015-2019.png) 
+![](Trend%20of%20O3%20pollutant%20for%202020.png)
+
+![](Trend%20of%20PM2.5%20pollutant%20for%202015-2019.png) 
+![](Trend%20of%20PM2.5%20pollutant%20for%202020.png)
+
+![](Trend%20of%20PM10%20pollutant%20for%202015-2019.png) 
+![](Trend%20of%20PM10%20pollutant%20for%202020.png)
+
+It is evident that the lockdown has made a huge impact on the air pollution level. This also comes up with a fall in economy because of shutting down of factories and public transportation, which provide thousands of jobs to the people. But seeeing on the bright side, this type of regulated and controlled factories shut down and improve the condition of air pollution, especially where AQI levels are abovee the hazardous category.
