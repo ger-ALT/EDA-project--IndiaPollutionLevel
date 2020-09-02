@@ -34,6 +34,7 @@ Amid the COVID-19 pandemic, a nationwide lockdown is imposed in India initially 
 
 As it is evident from the above comparison we see there's a major difference in the levels of AQI over 2015-2019 and 2020. Also there's a sharp decline in the pollution level after the implementation of nationwide lockdown on 23rd March. This resulted in shutting down of all factories and offices across the country. Also, there was a sharp decline in automobiles use as it was prohibited. This vastly improved the air quality especially in cities like Delhi & Gurugram where the automobile pollution was a major factor in making air quality worse. 
 According to my analysis, the average AQI level from 2015 till March 2020 was 175. Post Corona, This level has fallen sharply to 85. Also below are the levels of various pollutants from 2015-2019 vs their level in 2020. 
+
 ![](Trend%20of%20CO%20pollutant%20for%202015-2019.png) 
 ![](Trend%20of%20CO%20pollutant%20for%202020.png)
 
