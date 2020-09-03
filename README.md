@@ -71,3 +71,33 @@ According to my analysis, the average AQI level from 2015 till March 2020 was 17
 It is evident that the lockdown has made a huge impact on the air pollution level. This also comes up with a fall in economy because of shutting down of factories and public transportation, which provide thousands of jobs to the people. But seeeing on the bright side, this type of regulated and controlled factories shut down and improve the condition of air pollution, especially where AQI levels are abovee the hazardous category.
 
 ## Case Study - Delhi
+Delhi(NCR to be accurate) has always been in the limelight when it comes to air pollution. Despite being the capital, it always has the highest AQI level for any city in India. Doctors say respiratory problems have become common among children in Delhi-NCR; pollution and dust are the main reasons. Delhi has among the worst air quality in the world, which also impacts its surrounding regions. Of the total deaths in India in 2017, 1.24 million deaths, equivalent to 12·5 percent of total mortalities, could be attributed to air pollution, according to a paper released in 2018 by the India State Level Disease Burden Initiative, published in The Lancet. Scientists have also warned that inhaled air pollutant particles (particulate matter) are moving from the lung to placentas of pregnant women and if they have an effect on the placenta, this will have a direct impact on the foetus. See the bar chart below for a glance at the air quality :
+![](Delhi%20Pollutants%20Level.png)
+
+In 2019, The Environment Pollution (Prevention and Control) Authority declared a public health emergency in the Delhi-NCR region and banned all construction activities for almost a month. Schools were asked to close down in that period as well. The prominent pollutant in this period and as it continues to be, is PM2.5. These are fine particulate matter less than 2.5 micrometers in diameter that enables them to easily lodge in the lungs and cause health problems.
+
+### Affect of Covid-19 on Delhi's air pollution 
+The nationwide lockdown due to the pandemic has led to a drastic decline of NO2 emissions and reduced air pollution levels. The Levels of PM2.5 and PM10 have also fell. The AQI are the lowest they have been in over the last 5 years. This is mainly due to the restrictions imposed in order to contain the spread of coronavirus. This meant no factories, transportation(both private and public), which were the major cause of pollution in the capital. The averagae AQI has also fallen by >30%. This comes as a good news at a time when the coronavirus have caused a major panic around the world. This also proves that with planned restrictions can drastically improve air quality in Delhi.
+
+
+![](Trend%20of%20CO%20pollutant%20for%20Delhi.png)
+![](Trend%20of%20CO%20pollutant%20for%20Delhi(2020).png)
+
+![](Trend%20of%20NO2%20pollutant%20for%20Delhi.png)
+![](Trend%20of%20NO2%20pollutant%20for%20Delhi(2020).png)
+
+![](Trend%20of%20SO2%20pollutant%20for%20Delhi.png)
+![](Trend%20of%20SO2%20pollutant%20for%20Delhi(2020).png)
+
+![](Trend%20of%20O3%20pollutant%20for%20Delhi.png)
+![](Trend%20of%20O3%20pollutant%20for%20Delhi(2020).png)
+
+![](Trend%20of%20PM2.5%20pollutant%20for%20Delhi.png) 
+![](Trend%20of%20PM2.5%20pollutant%20for%20Delhi(2020).png)
+
+![](Trend%20of%20PM10%20pollutant%20for%20Delhi.png) 
+![](Trend%20of%20PM10%20pollutant%20for%20Delhi(2020).png)
+
+
+
+
