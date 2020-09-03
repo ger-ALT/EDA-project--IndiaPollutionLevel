@@ -7,11 +7,14 @@
 - Created an evaluator in order to provide a rating on the basis of pollutant levels recorded.
 - Designed heatmaps for correlation among the pollutants as well as pollutants and the cities.
 - Analysis on effect of Coronavirus Pandemic on each pollutant as well as AQI.
-- Case study of two of the most polluting cities - **Delhi** & **Ahmedabad**.
+- Case study of one of the most polluting city in India - **Delhi** 
 
 ## What is AQI ?
 An air quality index (AQI) is used by government agencies to communicate to the public how polluted the air currently is or how polluted it is forecast to become. Public health risks increase as the AQI rises. Computation of the AQI requires an air pollutant concentration over a specified averaging period, obtained from an air monitor or model. Taken together, concentration and time represent the dose of the air pollutant. Health effects corresponding to a given dose are established by epidemiological research. Air pollutants vary in potency, and the function used to convert from air pollutant concentration to AQI varies by pollutant. Its air quality index values are typically grouped into ranges. Each range is assigned a descriptor, a color code, and a standardized public health advisory.
 The AQI can increase due to an increase of air emissions (for example, during rush hour traffic or when there is an upwind forest fire) or from a lack of dilution of air pollutants. Stagnant air, often caused by an anticyclone, temperature inversion, or low wind speeds lets air pollution remain in a local area, leading to high concentrations of pollutants, chemical reactions between air contaminants and hazy conditions.
+
+![](AQI%20Trend.png)
+![](AQI%20over%20the%20years.png)
 
 ## Major pollutants (and what causes them)
 ### SO2(Sulfur Dioxide)
@@ -66,3 +69,5 @@ According to my analysis, the average AQI level from 2015 till March 2020 was 17
 ![](Trend%20of%20PM10%20pollutant%20for%202020.png)
 
 It is evident that the lockdown has made a huge impact on the air pollution level. This also comes up with a fall in economy because of shutting down of factories and public transportation, which provide thousands of jobs to the people. But seeeing on the bright side, this type of regulated and controlled factories shut down and improve the condition of air pollution, especially where AQI levels are abovee the hazardous category.
+
+## Case Study - Delhi
