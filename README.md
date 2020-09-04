@@ -98,6 +98,14 @@ The nationwide lockdown due to the pandemic has led to a drastic decline of NO2 
 ![](Trend%20of%20PM10%20pollutant%20for%20Delhi.png) 
 ![](Trend%20of%20PM10%20pollutant%20for%20Delhi(2020).png)
 
+### Future Scope
+
+This project was an analysis into how India is affected by pollution. The data reported is from 2015 onwards as the records were made public from that year onwards. It showed how the various pollutants affect the air quality, especially in metropolitans like Delhi & Gurugram. 
+Some of the next steps for this project are :
+- This analysis will be updated each month
+- Try to set up a platform for demonstrating the real-time analysis
+- Creating a correlation with temperature to show how levels of various pollutants affect the temperature.
+
 
 
 
